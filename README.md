@@ -1,4 +1,4 @@
-AS5013 STM32 HAL Driver
+# AS5013 STM32 HAL Driver
 
 The code in this repo is a driver for the AS5013 miniature joystick, written in C and using the STM32 hardware abstraction layer to handle I²C communication. The driver is very basic - it allows one to query the position of the joystick, but does not encompass all possible functionality such as calibration. Still, it is well documented and easy to build on.
 
